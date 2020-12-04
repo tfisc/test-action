@@ -21,5 +21,5 @@ function objectTest(param1) {
 }
 
 function callTest(a){
-    add(a + 2);
+    return add(a + 2);
 }
